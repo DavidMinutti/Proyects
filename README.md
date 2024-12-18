@@ -1,5 +1,3 @@
-# Proyects
-Probando 
-1
-2
-3
+# Proyects_VBA
+
+A continuación, se presenta un proyecto de automatización de tareas desarrollado en VBA, cuyo objetivo es la asignación eficiente de mobiliario a los colaboradores.
